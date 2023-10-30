@@ -1,6 +1,6 @@
 # gossip-model
 
-Replicated gossip model from https://www.prismmodelchecker.org/casestudies/gossip.php in Java programmatically using prism api.
+Gossip model from https://www.prismmodelchecker.org/casestudies/gossip.php prism language in Java programmatically using prism api.
 
 ## Basic instructions
 
