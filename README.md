@@ -1,7 +1,5 @@
 # gossip-model
 
-Gossip model.
-
 ## Basic instructions
 
 Download a copy of gossip-model and configure libs
