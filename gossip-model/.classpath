@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/colt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/epsgraphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/jas.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/jcommon.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/jhoafparser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/json-20231013.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/junit-platform-console-standalone.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/log4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/log4j-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/lpsolve55j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/nailgun-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/pepa.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Diole/git/gossip-model/gossip-model/lib/prism.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
